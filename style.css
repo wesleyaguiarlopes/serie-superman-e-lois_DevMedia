@@ -38,6 +38,10 @@
     color: #4711C1;
 }
 
+.capa {
+    width: 100%;
+}
+
 h2 {
     text-align: center;
     margin: 20px;
