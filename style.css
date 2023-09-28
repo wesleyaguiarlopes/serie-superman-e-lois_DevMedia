@@ -43,9 +43,20 @@ h2 {
     margin: 20px;
 }
 
-p {
+.secao p {
     line-height: 30px;
-    margin: 5px 0;
+    margin: 20px 0;
+}
+
+.galeria {
+    overflow-x: scroll;
+    display: flex;
+}
+
+.galeria img {
+    width: 315px;
+    margin: 0 10px 10px 10px;
+    box-shadow: 10px 10px 10px 3px #9b9b9b;
 }
 
 .rodape {
