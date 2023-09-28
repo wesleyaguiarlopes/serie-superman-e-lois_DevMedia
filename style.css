@@ -38,6 +38,11 @@
     color: #4711C1;
 }
 
+h2 {
+    text-align: center;
+    margin: 20px;
+}
+
 .rodape {
     text-align: center;
     padding: 10px 0;
